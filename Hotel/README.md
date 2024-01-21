@@ -13,5 +13,4 @@ I have attached the screenshots of the website below:
 ![image](https://github.com/shecoderfinally/Web-Projects/assets/53052899/9cc3f39a-1250-42ff-82a1-e463b0db52c1)
 
 
-Please let me know if you have any suggestions or feedback! 
-![image](https://github.com/shecoderfinally/Web-Projects/assets/53052899/8900dd60-f8da-4f65-a75c-b5c7e3a9d28b)
+Please let me know if you have any suggestions or feedback! 😊
