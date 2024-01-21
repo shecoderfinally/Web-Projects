@@ -5,6 +5,8 @@ This ia a simple Hotel Website built using fundamental concepts of HTML & CSS.
 I have attached the screenshots of the website below. Please let me know if you have any suggestions or feedback! 😊
 
 
+  
+
 ![image](https://github.com/shecoderfinally/Web-Projects/assets/53052899/b2718293-0838-46d6-bd6a-2093e7eddb43)
 
 ![image](https://github.com/shecoderfinally/Web-Projects/assets/53052899/835ebce4-df39-46bb-af0c-5ed5c61cced1)
