@@ -21,7 +21,7 @@ This project focuses on constructing a webpage solely with HTML and CSS, without
 
 ## Demo Video
 Watch the project in action: [**Wedding Season Demo**](https://www.youtube.com/watch?v=V5JYq7bXOM8)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xuwbHHrNvf4/maxresdefault.jpg)](https://www.youtube.com/watch?v=V5JYq7bXOM8)
 ---
 
 This keeps the README short and to the point while maintaining professionalism.
