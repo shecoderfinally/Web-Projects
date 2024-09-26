@@ -20,7 +20,7 @@ This project focuses on constructing a webpage solely with HTML and CSS, without
 2. **Run**: Open `index.html` in any modern browser to view the webpage.
 
 ## Demo Video
-Watch the project in action: 
+Watch the project in action:  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xuwbHHrNvf4/hqdefault.jpg)](https://www.youtube.com/watch?v=V5JYq7bXOM8)
 ---
 
