@@ -22,3 +22,10 @@ This project focuses on constructing a webpage solely with HTML and CSS, without
    ```
 2. **Run**: Open `index.html` in any modern browser to view the webpage.
 
+## Contributing
+
+Contributions to the Wedding Season Project are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request. Bug reports, feature requests, and feedback are also appreciated and can be submitted via the [issue tracker](https://github.com/shecoderfinally/Web-Projects/issues).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shecoderfinally/Wedding-Season/blob/main/LICENSE) file for details.
