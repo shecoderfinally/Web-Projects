@@ -1,5 +1,4 @@
 # Wedding Season - HTML and CSS Web Page Recreation
----
 
 ## Overview
 The **Wedding Season** project showcases a pixel-perfect recreation of a wedding-themed webpage using only **HTML** and **CSS**. The objective was to reproduce the provided design as closely as possible without using external libraries or frameworks.
